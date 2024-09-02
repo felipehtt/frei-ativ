@@ -1,0 +1,14 @@
+.Cabecalho {
+    display: flex;
+    align-items: center;
+
+    background-color: #313131;
+    color: #fff;
+
+    gap: 50px;
+    padding: 10px 20px;
+
+    img {
+        width: 60px;
+    }
+}
